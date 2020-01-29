@@ -1,0 +1,179 @@
+/* ESTA ES LA 1ERA SECCION */ 
+
+html, body { 
+    scroll-padding-top: 80px;
+}
+
+li {
+    display: inline;
+    margin: 1rem;
+    vertical-align: middle;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+
+ul {
+    margin-top: 0px;
+    padding-top: 20px;
+    padding: bottom 20;px;
+   
+}
+
+ul a {
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    margin: 0px;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    height: 75px;
+    background-color: black;
+}
+
+
+/* ESTA ES LA 2DA SECCION */ 
+
+#hero {
+    padding-top: 30px;
+    background-image: url("./assets/img/bg-hero.png");
+    height: 400px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    margin-left: 5em;
+    margin-right: 0.5em;
+    color: white;
+    font-size: 3.9em;
+    text-align: right;
+    padding-top: 1em;
+    text-shadow: 3px 3px grey;
+} 
+
+#p1 {
+    font-family: 'Open Sans', sans-serif;
+     margin-top: 0px;
+    margin-left: 5em;
+    margin-right: 0.5em;
+    color: white;
+    font-size: 2em;
+    text-align: right;
+    padding-top: 1em;
+    text-shadow: 2px 2px grey;
+}
+
+
+/* ESTA ES LA 3ERA SECCION */ 
+
+#di2 {
+    margin: 50px;
+    align-items: center;
+}
+
+#sub2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+#p2 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+#img2 {
+  padding-top: 80px;
+  image size: width: 400px; 
+  height: 324px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%
+}
+
+/* ESTA ES LA 4TA SECCION */ 
+
+#next {
+text-align: center;
+background: #a4452c;
+color: #ffffff;
+padding: 3.125rem;
+}
+
+.next_text {
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    text-align: left;
+    width: 30%;
+    margin-left: 1em;
+}
+
+#h22 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3em;
+}
+.titulo4 { 
+    font-style: oblique;
+}
+
+/* ESTA ES LA 5TA SECCION */ 
+
+#eventos {
+    text-align: center;
+    margin: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+}
+
+.titulo_evento {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+article {
+    display: inline-block;
+    padding: 55px;
+}
+
+/* ESTA ES LA 6TA SECCION */ 
+
+footer {
+    fill: white;
+    font-size: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+
+
+footer a {
+    text-decoration: none;
+    color: white;
+
+}
+
+#pfooter {
+    color: white;
+    font-size: small;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+
+
+
+
+
